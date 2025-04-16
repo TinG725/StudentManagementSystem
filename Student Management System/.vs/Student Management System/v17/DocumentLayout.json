@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\tin-g_c\\Student Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|D:\\code\\tin-g_c\\Student Management System\\Student Management System\\DAL.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|solutionrelative:Student Management System\\DAL.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|D:\\code\\tin-g_c\\Student Management System\\Student Management System\\File.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|solutionrelative:Student Management System\\File.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|D:\\code\\tin-g_c\\Student Management System\\Student Management System\\SMS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|solutionrelative:Student Management System\\SMS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|D:\\code\\tin-g_c\\Student Management System\\Student Management System\\BLL.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|solutionrelative:Student Management System\\BLL.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|D:\\code\\tin-g_c\\Student Management System\\Student Management System\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|solutionrelative:Student Management System\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|D:\\code\\tin-g_c\\Student Management System\\Student Management System\\UI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|solutionrelative:Student Management System\\UI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|D:\\code\\tin-g_c\\Student Management System\\Student Management System\\File.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6EA6C2B-F18E-4184-BB56-7C9F45255142}|Student Management System\\Student Management System.vcxproj|solutionrelative:Student Management System\\File.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 286,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLL.c",
+              "DocumentMoniker": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\BLL.c",
+              "RelativeDocumentMoniker": "Student Management System\\BLL.c",
+              "ToolTip": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\BLL.c",
+              "RelativeToolTip": "Student Management System\\BLL.c",
+              "ViewState": "AgIAAEABAAAAAAAAAAAAAFABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-08T12:42:00.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SMS.h",
+              "DocumentMoniker": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\SMS.h",
+              "RelativeDocumentMoniker": "Student Management System\\SMS.h",
+              "ToolTip": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\SMS.h",
+              "RelativeToolTip": "Student Management System\\SMS.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T11:01:02.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAL.c",
+              "DocumentMoniker": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\DAL.c",
+              "RelativeDocumentMoniker": "Student Management System\\DAL.c",
+              "ToolTip": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\DAL.c",
+              "RelativeToolTip": "Student Management System\\DAL.c",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAAALMBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T13:13:00.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File.h",
+              "DocumentMoniker": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\File.h",
+              "RelativeDocumentMoniker": "Student Management System\\File.h",
+              "ToolTip": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\File.h",
+              "RelativeToolTip": "Student Management System\\File.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-09T12:16:55.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "File.c",
+              "DocumentMoniker": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\File.c",
+              "RelativeDocumentMoniker": "Student Management System\\File.c",
+              "ToolTip": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\File.c",
+              "RelativeToolTip": "Student Management System\\File.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-09T12:16:47.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UI.h",
+              "DocumentMoniker": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\UI.h",
+              "RelativeDocumentMoniker": "Student Management System\\UI.h",
+              "ToolTip": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\UI.h",
+              "RelativeToolTip": "Student Management System\\UI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T13:17:10.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UI.c",
+              "DocumentMoniker": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\UI.c",
+              "RelativeDocumentMoniker": "Student Management System\\UI.c",
+              "ToolTip": "D:\\code\\tin-g_c\\Student Management System\\Student Management System\\UI.c",
+              "RelativeToolTip": "Student Management System\\UI.c",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T13:15:23.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
